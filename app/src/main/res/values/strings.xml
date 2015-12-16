@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoInstall</string>
+    <string name="description">自动安装App，若您不了解本功能，请勿开启。</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    android:accessibilityEventTypes="typeWindowStateChanged"
+    android:packageNames="com.android.packageinstaller"
+    android:description="@string/description"
+    android:accessibilityFeedbackType="feedbackVisual"
+    android:notificationTimeout="100"
+    android:accessibilityFlags="flagDefault"
+    android:canRetrieveWindowContent="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
